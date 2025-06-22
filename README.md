@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @King12-D
-- 👀 I’m interested in Hacking you site 😁😁 (yo Am kidding 😆😄)
-- 🌱 I’m currently learning all programming languages
-- 📫 How to reach me ...
+- 👀 A self learned and trained full stack web developer🙂🙂
+- 🌱 I’m currently perfecting my skills daily
+- 📫 How to reach me ... Invisible 🫥 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
