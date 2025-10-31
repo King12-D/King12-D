@@ -1,28 +1,34 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00FFAA&width=600&lines=👋+Hi%2C+I'm+King_Dav!;💻+Full-Stack+Developer+%7C+AI+Enthusiast;🚀+Building+Next-Gen+Web+and+AI+Solutions;🔥+Let's+Create+Something+Amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00FFAA&width=600&lines=👋+Hi%2C+I'm+King_Dav!;💻+Full-Stack+%26+Mobile+Developer;🚀+Building+Next-Gen+Web+and+AI+Solutions;🔥+Let's+Create+Something+Amazing!)](https://git.io/typing-svg)
 
 ---
 
-# 🧠 About Me
+# 👑 About Me
 
-👋 I'm **King_Dav**, a passionate **Full-Stack Developer** who loves turning ideas into digital reality.  
-I build **AI chatbots**, **VTU systems**, and **logistics platforms** that solve real-world problems.  
+Hey! I’m **King_Dav**, a passionate **Software Engineer** who loves blending design, logic, and innovation to craft seamless digital experiences.
 
-- 🧩 Currently working on: **KING-AI**, **KingDavSUB**, and **Konined Logistics**
-- 💬 Ask me about: **Next.js**, **Django**, **React Native**, **Node.js**, **MongoDB**
-- 🧠 Learning more about **Edge computing** and **AI model integration**
-- 🎯 Goal: To create scalable, intelligent platforms under my startup **Konined (KO9D)**
+I build **Scalable and Rebust softwares** that perform beautifully across devices.
+
+- 🧠 Currently working on: **KING-AI** and **KingDavSUB**
+- ⚙️ Skills: **Next.js**, **Django**, **React Native**, **Node.js**, **MongoDB**
+- 🌍 Startup: **Konined (KO9D)** — building intelligent systems for the future
+- 🧩 Exploring: **Edge runtimes**, **AI integrations**, and **serverless tech**
 
 ---
 
-# ⚙️ Tech Stack
+# 🧰 Tech Stack
 
-### 🧩 Frontend
+### 🖥 Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🛠 Backend
+### 📱 Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -32,7 +38,7 @@ I build **AI chatbots**, **VTU systems**, and **logistics platforms** that solve
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🧰 Tools
+### 🧠 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -40,17 +46,18 @@ I build **AI chatbots**, **VTU systems**, and **logistics platforms** that solve
 
 ---
 
-# 🧩 Featured Projects
+# 🚀 Featured Projects
 
-| 🚀 Project | 🧠 Description | 🧰 Stack |
+| 📱 Project | 🔍 Description | 🧰 Stack |
 |------------|----------------|----------|
-| [**KING-AI**](#) | ChatGPT-style AI chatbot with image analysis, web search, and generation | HTML, JS, Tailwind |
+| [**KING-AI**](#) | ChatGPT-style chatbot with image analysis, web search & generation | HTML, JS, Tailwind |
 | [**KingDavSUB**](#) | VTU system with ClubKonnect API, wallet funding & SMS notifications | Django, Paystack API |
-| [**Konined Logistics**](#) | Package tracking platform with admin panel & email updates | Next.js, Django REST |
+| [**Konined Logistics**](#) | Package tracking platform with email alerts & admin control | Next.js, Django REST |
+| [**KO9D Mobile**](#) | A React Native app for VTU and logistics in one ecosystem | React Native, Node.js |
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Stats
 
 <div align="center">
 
@@ -66,9 +73,9 @@ I build **AI chatbots**, **VTU systems**, and **logistics platforms** that solve
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/King12-D)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kingdav.com.ng)
 
 ---
 
-⭐ **“Code it. Ship it. Improve it.”**  
-Made with ❤️ by **King_Dav**
+⭐ **"Code it. Ship it. Improve it."**  
+Built with ❤️ by **King_Dav**
