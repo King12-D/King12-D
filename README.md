@@ -58,8 +58,8 @@ I build **Scalable and Rebust softwares** that perform beautifully across device
 
 | 📱 Project | 🔍 Description | 🧰 Stack |
 |------------|----------------|----------|
-| [**Muna CLI**](#) | A cli that auto generates tests | TypeScript | Bun
-| [**Bank Ads Api**](#) An API that creates, and controls the flow of bank ads, and helps reduce losses 📉 | Go Lang
+| [**Muna CLI**](#) | A cli that auto generates tests | TypeScript, Bun
+| [**Bank Ads Api**](#) | An API that creates, and controls the flow of bank ads, and helps reduce losses 📉 | Go Lang
 | [**Konined Logistics**](#) | Package tracking platform with email alerts & admin control | Next.js, Django REST |
 | [**KO9D Mobile**](#) | A React Native app for VTU and logistics in one ecosystem | React Native, Node.js |
 
