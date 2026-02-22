@@ -66,8 +66,9 @@ I build **Scalable and Rebust softwares** that perform beautifully across device
 
 </div>
 
+# Gihub Streak 🔥 
 <div align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com/?King12-D=DenverCoder1)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=King12-D)](https://git.io/streak-stats)
 </div>
 
 ---
