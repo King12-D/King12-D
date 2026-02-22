@@ -70,7 +70,7 @@ I build **Scalable and Rebust softwares** that perform beautifully across device
 <div align="center">
 
 ![King_Dav's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=King12-D&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=King12-D&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+![Top Languages](https://github-readme-stats-ten-theta.vercel.app/api/top-langs/?username=King12-D&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
 ### GitHub Streak 🔥 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=King12-D&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
