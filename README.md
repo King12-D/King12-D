@@ -9,8 +9,7 @@ Hey! I’m **King_Dav**, a passionate **Software Engineer** who loves blending d
 
 I build **Scalable and Rebust softwares** that perform beautifully across devices.
 
-- 🧠 Currently working on: **KING-AI** and **KingDavSUB**
-- ⚙️ Skills: **Next.js**, **Django**, **React Native**, **Node.js**, **MongoDB**
+- 🧠 Currently working on: **Flink** and **Muna**
 - 🌍 Startup: **Konined (KO9D)** — building intelligent systems for the future
 - 🧩 Exploring: **Edge runtimes**, **AI integrations**, and **serverless tech**
 
