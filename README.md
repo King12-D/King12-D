@@ -57,22 +57,19 @@ I build **Scalable and Rebust softwares** that perform beautifully across device
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Stats & Activity
 
 <div align="center">
 
-![King_Dav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=King12-D&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=King12-D&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+![King_Dav's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=King12-D&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=King12-D&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
-</div>
+### GitHub Streak 🔥 
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=King12-D&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-# Gihub Streak 🔥 
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=King12-D)](https://git.io/streak-stats)
 </div>
 
 ---
-
 # 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/King12-D)
