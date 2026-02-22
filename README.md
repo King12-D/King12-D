@@ -63,6 +63,7 @@ I build **Scalable and Rebust softwares** that perform beautifully across device
 
 ![King_Dav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=King12-D&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=King12-D&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+[![GitHub Streak](https://streak-stats.demolab.com/?King12-D=DenverCoder1)](https://git.io/streak-stats)
 
 </div>
 
