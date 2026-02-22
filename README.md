@@ -50,8 +50,8 @@ I build **Scalable and Rebust softwares** that perform beautifully across device
 
 | 📱 Project | 🔍 Description | 🧰 Stack |
 |------------|----------------|----------|
-| [**KING-AI**](#) | ChatGPT-style chatbot with image analysis, web search & generation | HTML, JS, Tailwind |
-| [**KingDavSUB**](#) | VTU system with ClubKonnect API, wallet funding & SMS notifications | Django, Paystack API |
+| [**Muna CLI**](#) | A cli that auto generates tests | TypeScript | Bun
+| [**Bank Ads Api**](#) An API that creates, and controls the flow of bank ads, and helps reduce losses 📉 | Go Lang
 | [**Konined Logistics**](#) | Package tracking platform with email alerts & admin control | Next.js, Django REST |
 | [**KO9D Mobile**](#) | A React Native app for VTU and logistics in one ecosystem | React Native, Node.js |
 
@@ -63,8 +63,11 @@ I build **Scalable and Rebust softwares** that perform beautifully across device
 
 ![King_Dav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=King12-D&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=King12-D&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
-[![GitHub Streak](https://streak-stats.demolab.com/?King12-D=DenverCoder1)](https://git.io/streak-stats)
 
+</div>
+
+<div align="center">
+  ![GitHub Streak](https://streak-stats.demolab.com/?King12-D=DenverCoder1)](https://git.io/streak-stats)
 </div>
 
 ---
