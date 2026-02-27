@@ -1,5 +1,5 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00FFAA&width=600&lines=👋+Hi%2C+I'm+King+Dav!;💻+A+Software_Engineer;+Building+Next-Gen+Softwares+and+AI+Solutions;🔥+Let's+Create+Something+Amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00FFAA&width=600&lines=👋+Hi%2C+I'm+King+Dav!;💻+A+Software_Engineer;+Building+Next-Gen+Softwares+and+Embedded+Systems;🔥+Let's+Create+Something+Amazing!)](https://git.io/typing-svg)
 
 ---
 
