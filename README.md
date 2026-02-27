@@ -5,7 +5,7 @@
 
 # 👑 About Me
 
-Hey! I’m **King Dav**, a passionate **Software Engineer** who loves blending design, logic, and innovation to craft seamless digital experiences.
+Hey! I’m **King Dav**, a passionate **Software/Embedded systems Engineer** who loves blending design, logic, and innovation to craft seamless digital experiences.
 
 I build **Scalable and Rebust softwares** that perform beautifully across devices.
 
